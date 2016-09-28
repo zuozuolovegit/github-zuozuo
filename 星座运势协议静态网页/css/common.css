@@ -1,0 +1,11 @@
+.division-gray-2px{width:100%;height:2px;background-color:#CCC;margin:20px 0;}
+.clear{clear:both;}
+a:hover{color:#666666;cursor:pointer;}
+a:active{color:#666666;}
+ul,ol{
+    padding-left:0; 
+    list-style-type:none;
+}
+
+/*.horoscope-tips-bottom-detail ul li p{margin:0;line-height:1.4;}
+.horoscope-tips-middle p {margin:0;font-size:12px;overflow : hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;}*/

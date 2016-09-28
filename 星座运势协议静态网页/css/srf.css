@@ -1,0 +1,27 @@
+.SRF-main-top{width:100%;background-color:#FFF;}
+.SRF-main-top .SRF-logo{width:1093px;margin-left:auto;margin-right:auto;box-sizing:border-box;height:111px;}
+.SRF-main-top .SRF-logo ul .logo{float:left;}
+.SRF-main-top .SRF-logo ul .logo img{margin-top:20px;}
+.SRF-main-top .SRF-logo ul .button{float:right;}
+.SRF-main-top .SRF-logo ul .button input{cursor:pointer;}
+.SRF-main-top .SRF-logo ul .button input{width:200px;height:56px;color:#FFF;font-size:25px;background-color:#7AC552;border-radius:8px;outline: 0;border: 0;margin-top:20px;}
+
+.SRF-main-middle{box-sizing:border-box;width:1093px;height:1560px;background-color:#FFF;margin-left:auto;margin-right:auto;margin-top:30px;padding:20px 40px 30px 40px;}
+.SRF-main-middle .title p{font-size:20px;color:#7AC552;font-weight:bold;}
+.SRF-main-middle .title-tk{line-height:20px;margin-top:20px;}
+.SRF-main-middle .title-tk p{font-size:12px;}
+.SRF-main-middle .title-tk .title-tk-name{font-weight:bold;}
+.SRF-main-middle .content .content-detail{margin-top:30px;}
+.SRF-main-middle .content .content-detail li{line-height:23px;font-size:12px;color:#333;}
+.SRF-main-middle .content .content-detail .up{margin-top:15px;}
+.SRF-main-middle .final{margin-top:35px;line-height:23px;}
+
+
+.SRF-main-bottom{width:100%;background-color:#FFF;margin-top:30px;}
+.SRF-main-bottom .SRF-main-bottom-name{width:1093px;height:129px;margin-left:auto;margin-right:auto;padding-top:50px;box-sizing:border-box;}
+.SRF-main-bottom .SRF-main-bottom-name .A{width:800px;margin-left:auto;margin-right:auto;text-align:center;}
+.SRF-main-bottom .SRF-main-bottom-name .A ul{display:inline-block;}
+.SRF-main-bottom .SRF-main-bottom-name .A ul li{float:left;margin-left:10px;font-size:12px;}
+.SRF-main-bottom .SRF-main-bottom-name .A ul .first{margin-left: 0;}
+.SRF-main-bottom .SRF-main-bottom-name .A ul li a{color:#666666;}
+.SRF-main-bottom .SRF-main-bottom-name .B{width:800px;margin-left:auto;margin-right:auto;text-align:center;}
